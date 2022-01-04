@@ -6,7 +6,7 @@
 
 <br>
 
-<div style="display: inline_block" align="end">
+<div style="display: inline_block" align="center">
   <img align="center" alt="Ezm-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ezm-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ezm-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,7 +21,7 @@
 
 ###
 
-<div align="end">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezms&layout=compact&langs_count=10&theme=tokyonight"/>
 </div><br><br>
