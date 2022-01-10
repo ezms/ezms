@@ -1,12 +1,14 @@
-### Hi there, I'm Emanuel Martins 👋
-<div>
-  <a href="https://www.linkedin.com/in/emanuelzmartins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:emanuelzm@protonmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-</div>
+### Hi there, I'm Emanuel 👋
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelzmartins/)
+  [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/ezms)
+
+
+<p><u><em>FullStack Dev!</em></u><br>here you will find some of my projects </p>
 
 <br>
 
-<div style="display: inline_block" align="center">
+<div style="display: inline_block" align="left">
   <img align="center" alt="Ezm-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ezm-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ezm-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,15 +21,10 @@
 
 <br>
 
-###
-
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezms&layout=compact&langs_count=10&theme=tokyonight"/>
-</div><br><br>
+</div><br>
 
-- 🔭 Now i studying this new stacks!!!
-- 📓 I'm using this account to do this   ¯\_(ツ)_/¯
-- ⚡ This will soon be my main account!
+- 🔭 Now i work with this stacks!!!
 - 🎓 Technologist in Systems Analysis and Development at [UNIDEP](https://www.unidep.edu.br)
 - 📫 How to reach me: [Send me a email](mailto:emanuelzm@protonmail.com)
