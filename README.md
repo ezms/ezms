@@ -4,10 +4,10 @@
   [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/ezms)
 
 
-<p><u><em>FullStack Dev!</em></u><br>here you will find some of my projects </p>
+<p><em>FullStack Dev!</em><br>here you will find some of my projects </p>
 
-<br>
 
+<h3>💻 Languages & Frameworks</h3>
 <div style="display: inline_block" align="left">
   <img align="center" alt="Ezm-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ezm-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
