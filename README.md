@@ -4,7 +4,7 @@
   [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/ezms)
 
 
-<p><em>FullStack Dev!</em><br>here you will find some of my projects </p>
+<p><em>Front-End Dev!</em><br>here you will find some of my projects </p>
 
 
 <h3>💻 Languages & Frameworks</h3>
