@@ -1,4 +1,4 @@
-### Hi there, I'm Emanuel 👋
+### Yello, I'm Emanuel 👋
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelzmartins/)
   [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/ezms)
@@ -23,7 +23,7 @@
 
 <div align="left">
   <a href="https://github.com/ezms">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezms&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezms&layout=compact&langs_count=9&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div><br>
 
