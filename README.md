@@ -21,15 +21,12 @@
 
 <br>
 
-<div>
-  <div align="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </div><br>
-  <div align="left">
-    <a href="https://github.com/ezms">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezms&layout=compact&langs_count=7&theme=tokyonight"/>
-  </div><br>
-</div>
+<div align="left">
+  <a href="https://github.com/ezms">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezms&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div><br>
+
   
 - 🔭 Now i work with this stacks!!!
 - 🎓 Technologist in Systems Analysis and Development at [UNIDEP](https://www.unidep.edu.br)
