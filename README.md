@@ -16,4 +16,4 @@
   
   - 🔭 Currently working with Node.js, TypeScript, NestJS & microservices                   
   - 🎓 Technologist in Systems Analysis and Development at [UNIDEP](https://www.unidep.edu.br)
-  - 📫 [emanuelzm@protonmail.com](mailto:emanuelm.dev@gmail.com)  
+  - 📫 [emanuelm.dev@gmail.com](mailto:emanuelm.dev@gmail.com)  
