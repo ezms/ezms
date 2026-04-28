@@ -50,9 +50,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
+  
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezms&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/ezms)
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezms&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ezms)
+  
   [![GitHub Streak](https://streak-stats.demolab.com?user=ezms&theme=tokyonight&hide_border=true)](https://github.com/ezms)
+
 </div>
 
 ---
